@@ -17,4 +17,8 @@ Desafio de Projeto - Modelando o iPhone com UML: Funções de Músicas, Chamadas
 ### Resultados
 
 #### Diagrama UML
+![](https://github.com/AlinyKelly/desafio-UML-iPhone/blob/main/diagramasUML/Desafio%20DIO%20-%20iPhone%20UML.png?raw=true)
 
+#### Código Java
+
+![Acesse o código aqui.](https://github.com/AlinyKelly/desafio-UML-iPhone/tree/main/codigoJava/IphoneUML)
